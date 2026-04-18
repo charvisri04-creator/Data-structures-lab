@@ -1,0 +1,10 @@
+//c++ program to print student details
+#include<iostream>
+using namespace std;
+int main()
+{
+  cout<<"Name:charvisri";
+  cout<<"Roll.No:25A31A05GU";
+  cout<<"Branch:CSE";
+  cout<<"Section:E";
+}
